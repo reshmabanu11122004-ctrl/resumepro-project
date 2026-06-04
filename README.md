@@ -31,12 +31,12 @@ Resume Generator is a web-based application developed using HTML, CSS, and JavaS
 7️⃣ Download or print your resume  
 
 ## 🌐 Live Demo
-🔗 https://sarafatema11.github.io/resume-project/
+🔗 https://reshmamemon.github.io/resume-project/
 
 ## 👩‍💻 Authors
-- Sara Fatema Hameed Sharif  
-- Reshma Banu Mohammad Arif Memon  
-- Shaista Tarannum Mohd Javeed Hussain  
+-  Reshma banu Mohammed Arif memon
+-  Sara Fatema Hameed Sharif
+-  Shaista Tarannum Mohd Javeed Hussain  
 
 ## 🏫 Institution
 Rajiv Gandhi College of Computer Science & Management, Nanded
