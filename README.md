@@ -31,7 +31,7 @@ Resume Generator is a web-based application developed using HTML, CSS, and JavaS
 7️⃣ Download or print your resume  
 
 ## 🌐 Live Demo
-🔗 https://reshmamemon.github.io/resume-project/
+🔗 https://sarafatema11.github.io/resume-project/
 
 ## 👩‍💻 Authors
 -  Reshma banu Mohammed Arif memon
